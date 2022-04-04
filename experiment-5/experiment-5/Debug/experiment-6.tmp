@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.51</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\AD-LAB\Documents\AlenPaul\experiment-6\experiment-6\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Studio 5.1\extensions\Atmel\AVRAssembler\2.1.51.17\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\AD-LAB\Documents\AlenPaul\experiment-6\experiment-6\experiment-6.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Studio 5.1\extensions\Atmel\AVRAssembler\2.1.51.17\AvrAssembler/Include\m32def.inc</FILE>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Studio 5.1\extensions\Atmel\AVRAssembler\2.1.51.17\AvrAssembler/Include\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\AD-LAB\Documents\AlenPaul\experiment-6\experiment-6\Debug/experiment-6.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\AD-LAB\Documents\AlenPaul\experiment-6\experiment-6\Debug/experiment-6.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\AD-LAB\Documents\AlenPaul\experiment-6\experiment-6\Debug\experiment-6.map</FILE>
+  <FILE>C:\Users\AD-LAB\Documents\AlenPaul\experiment-6\experiment-6\Debug\experiment-6.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <LI><FILE>C:\Users\AD-LAB\Documents\AlenPaul\experiment-6\experiment-6\experiment-6.asm</FILE><LINE>17</LINE></LI>
+  <DELAY><FILE>C:\Users\AD-LAB\Documents\AlenPaul\experiment-6\experiment-6\experiment-6.asm</FILE><LINE>23</LINE></DELAY>
+  <AGAIN><FILE>C:\Users\AD-LAB\Documents\AlenPaul\experiment-6\experiment-6\experiment-6.asm</FILE><LINE>25</LINE></AGAIN>
+ </LABELS>
+</ASSEMBLER_INFO>
