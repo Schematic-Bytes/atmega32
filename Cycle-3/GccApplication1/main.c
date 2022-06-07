@@ -97,7 +97,37 @@ void exp4_4(){
 	}
 }
 
-int main(){
-	exp1();
+
+int exp5(){
+	unsigned char z;
+	DDRB=0;
+	DDRD=0xff;
+	while (1){
+		z=PINB;
+		z=z&0b00000011;
+		switch(z){
+	    case(0):{
+			PORTD=0;
+			break;
+		}
+		case(1):{
+			PORTD=1;
+			break;
+		}
+		case(2):{
+			PORTD=2;
+			break;
+		}
+		case(3):{
+			PORTD=3;
+			break;
+		}
+		return 0;
+	}
+	}
 }
 
+int main(){
+	exp4_1();
+	return 0;
+}
